@@ -15,4 +15,3 @@ Attachements
 
 1. STATA do file - consisting of commands used to extract the block level data of Multiple Indicator Survey 2022 from NSSO database
 2. Jupyter notebook - includes the inputs (along with outputs) used to find the Share of Households that had Any Arrangement for garbage collection in each state and visualisation of this data
-3. Excel sheet exported using the STATA do file
